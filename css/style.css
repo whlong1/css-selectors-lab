@@ -45,8 +45,8 @@ article {
   line-height: 26px;
   border-radius: 10px;
   text-align: justify;
-  border: 1px solid rgb(125, 125, 125);
   box-shadow: 5px 10px;
+  border: 1px solid rgb(125, 125, 125);
 
   /* BOX SHADOW */
   box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.10);

@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body > header {
+  padding: 0 20px;
+  border-bottom: 1px solid black;
+}
+
+#logo {
+  width: 50px;
+  margin-right: 10px;
+}
+
+section {
+  padding: 0 20px;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+#waldo img {
+  border: 2px solid red;
+}
+
+article {
+  padding: 20px;
+  margin: 15px 0;
+  max-width: 300px;
+  line-height: 26px;
+  border-radius: 10px;
+  text-align: justify;
+  border: 1px solid rgb(125, 125, 125);
+  box-shadow: 5px 10px;
+
+  /* BOX SHADOW */
+  box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.10);
+  -moz-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.10);
+  -webkit-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.10);
+}
+
+h3 {
+  text-align: center;
+}
+
+article header img {
+  margin: auto;
+  display: block;
+  border-radius: 100%;
+  border: 1px solid rgb(125, 125, 125);
+}
+
+footer {
+  border-top: 1px solid black;
+  padding: 0 20px;
+  font-weight: bold;
+}
